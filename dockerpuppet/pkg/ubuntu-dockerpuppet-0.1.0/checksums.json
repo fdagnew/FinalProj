@@ -1,0 +1,12 @@
+{
+  "Gemfile": "36c376f27539ded2a321b2bd432e843b",
+  "README.md": "0956b41110dd39e99f0b29fa1522cbe8",
+  "Rakefile": "f4692851f7e9afcdb02721319e3f18b9",
+  "examples/init.pp": "93672e4b1d1c3027e283d74e8cd8e85f",
+  "manifests/init.pp": "3f8275652192acd4d82ed4cc04130ed1",
+  "manifests/install.pp": "6395a098dd6bac77d2a6f6507dd42181",
+  "manifests/site.pp": "62edf36c3b4de655dc8298eeb7157d52",
+  "metadata.json": "e741cd0f8686b585f1eb13767bf0b026",
+  "spec/classes/init_spec.rb": "dbfdf90c622f7e2fe9cc2ebdb8e65172",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}
