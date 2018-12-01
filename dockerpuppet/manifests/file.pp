@@ -1,4 +1,4 @@
-class dockerpuppet::files {
+class dockerpuppet::file {
  file {'/home/ubuntu/FinalProj/website/':
  ensure => present,
  mode => '0777',
