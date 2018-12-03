@@ -1,0 +1,14 @@
+{
+  "name": "ubuntu-dockerpuppet",
+  "version": "0.1.0",
+  "author": "Fitsume Dagnew",
+  "summary": "This is will be used to install docker using puppet agent",
+  "license": "Apache-2.0",
+  "source": "https://github.com/fdagnew/FinalProj.git",
+  "project_page": "https://github.com/fdagnew/FinalProj",
+  "issues_url": "https://github.com/fdagnew/FinalProj/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
